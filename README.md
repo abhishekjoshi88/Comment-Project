@@ -1,6 +1,7 @@
 
 # Feedback Giving App
-# [Demo](https://abhishekjoshi88.github.io/Comment-Project/)
+# Demo
+- [Here](https://abhishekjoshi88.github.io/Comment-Project/)
 ## Overview
 
 Welcome to the Feedback Giving App! This web application, built using JavaScript, HTML, and CSS, provides users with an intuitive and responsive platform for giving feedback. We've incorporated best coding practices and input validations to ensure a smooth and reliable user experience.
